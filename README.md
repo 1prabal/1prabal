@@ -1,7 +1,43 @@
 # 💫 Hi 👋, I'm Prabal Gupta
-**A passionate DevOps Enthusiasts **
+
+🚀 AI/ML Student | Full-Stack Developer | Problem Solver
+
+I'm a Computer Science student passionate about building intelligent applications and scalable software. I enjoy turning ideas into real-world projects by combining Artificial Intelligence, Full-Stack Development, and modern software engineering.
+
+Currently, I'm focused on:
+
+* 🧠 Artificial Intelligence & Machine Learning
+* 🌐 Full-Stack Web Development
+* 💻 Data Structures & Algorithms
+* ☁️ Cloud Technologies
+* 🤖 Building AI-powered applications
+
+
+## 📌 What I'm Working On
+
+* Solving Data Structures & Algorithms problems on LeetCode.
+* Building AI-powered applications.
+* Learning scalable backend architecture.
+* Improving my Full-Stack development skills.
+
+### 🚀 Featured Projects
+* **Jarvis AI Assistant:** Local voice-driven assistant built with Python and LLMs.
+* **Pneumo AI:** Smart AI that detects pneumonia through xray and voice.
+
+## 📈 GitHub Goals
+
+* Maintain consistent contributions.
+* Build impactful open-source projects.
+* Write clean, maintainable code.
+* Continuously learn and share knowledge.
+
+---
 
 Email Me 👉 ✉️ **prabalgupta001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabal018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabal-gupta-549197361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabalgupta001@gmail.com) 
