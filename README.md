@@ -15,7 +15,7 @@ Currently, I'm focused on:
 
 ## 📌 What I'm Working On
 
-* Solving Data Structures & Algorithms problems on LeetCode.
+* Solving Data Structures & Algorithms problems.
 * Building AI-powered applications.
 * Learning scalable backend architecture.
 * Improving my Full-Stack development skills.
