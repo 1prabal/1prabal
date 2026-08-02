@@ -19,8 +19,8 @@ Email Me 👉 ✉️ **prabalgupta001@gmail.com** For Collaboration/Project or A
 ![](https://streak-stats.demolab.com/?user=1prabal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=1prabal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=1prabal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=1prabal&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
